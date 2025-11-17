@@ -1,4 +1,4 @@
-# Hi, I'm Collin
+# Hi, I'm Collin...
 🐯 Mizzou student studying CS & Data Science<br>🔭 Currently working on a research project using satellite imagery & computer vision to identify & map ancient Amazonian geoglyph sites.
 
 
